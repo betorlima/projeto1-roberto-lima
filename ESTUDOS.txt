@@ -1,0 +1,17 @@
+1 - Defina o seu objetivo final (específico, quebrado em passos de estudo)
+  = Criar um aplicativo de login com python
+
+2 - Defina a data para entrega desse objetivo
+  = Diga publicamente o que irá fazer e diga quando ira mostrar aquilo (daqui a 3 meses, redes sociais)
+
+3 - Consuma o conteúdo do treinamento por 1hr/dia
+  = (dentro deste tempo de estudo)
+	- faça os exercícios
+	- faça os projetos
+	- pesquisar no google por exer/proj
+4 - Documentar a sua evolução
+  = Coloque todo seu projeto/exercícios no git+github
+  = Compartilhamento de entregas parciais(linkedin)
+  = (Bônus) = Escrever como fez aquilo(artigo/blog)
+
+5 - Siga isso por pelo menos 1 mês (6meses) 
